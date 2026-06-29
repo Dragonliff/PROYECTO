@@ -2,7 +2,7 @@
   "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "metadata": {
-    "description": "Plantilla ARM limpia para redesplegar la infraestructura de prueba del proyecto Veterinaria Santa Cruz en otro grupo de recursos. Generada a partir del template exportado, eliminando IDs, IP fija y configuraciones innecesarias."
+    "description": "Plantillaa ARM limpia para redesplegar la infraestructura de prueba del proyecto Veterinaria Santa Cruz en otro grupo de recursos. Generada a partir del template exportado, eliminando IDs, IP fija y configuraciones innecesarias."
   },
   "parameters": {
     "location": {
